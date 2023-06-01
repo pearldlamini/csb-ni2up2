@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,aACE,eAAgB,CAChB,gBAAiB,CACjB,YAAa,CACb,qBAAsB,CACtB,kBACF","file":"styles.bc1dd4cd.css","sourceRoot":"..","sourcesContent":[".weather-app {\n  max-width: 600px;\n  margin: 30px auto;\n  padding: 20px;\n  border: 1px solid blue;\n  border-radius: 10px;\n}\n"]}
